@@ -1,5 +1,7 @@
 # hex string to byte array in C/C++
 
+***Note: this repository has been replaced by the `chex` library of the same author.***
+
 ## tl;dr
 ```C
 /* Copyright (c) 2022 Tero 'stedo' Liukko, MIT License */
